@@ -3,7 +3,7 @@ A time series based machine learning prediction for the COVID19 in Sri Lanka
 
 ### Datasets
 
-[Time Series](https://www.kaggle.com/anjanatiha/corona-virus-time-series-dataset)
+[Time Series](https://www.kaggle.com/anjanatiha/corona-virus-time-series-dataset) <br/>
 [Cumulative Count](https://www.kaggle.com/imdevskp/corona-virus-report#covid_19_clean_complete.csv)
 
 
