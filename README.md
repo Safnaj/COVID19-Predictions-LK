@@ -11,3 +11,7 @@ A time series based machine learning prediction for COVID19 Affected, Recovered 
 
 Time Series Analysis is one of the Machine Learning Prediction Technique. Prophet is a forecasting model which allows to deal with multiple seasonalities. It’s an open source software released by Facebook data Science team.
 
+
+### Author
+[*Ahamed Safnaj*](www.ahamedsafnaj.com)
+
