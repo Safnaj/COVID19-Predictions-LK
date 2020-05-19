@@ -6,6 +6,10 @@ A time series based machine learning prediction for COVID19 Affected, Recovered 
 [Time Series](https://www.kaggle.com/anjanatiha/corona-virus-time-series-dataset) <br/>
 [Cumulative Count](https://www.kaggle.com/imdevskp/corona-virus-report#covid_19_clean_complete.csv)
 
+### Technologies
+* Python
+* Jupyter Notebook
+* Google Co Lab
 
 ### Alogrithm
 
