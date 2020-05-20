@@ -1,5 +1,5 @@
 ## Prediction of COVID19 Affection in Sri Lanka using Time Series Forecasting
-A time series based machine learning prediction for COVID19 Affected, Recovered & Deaths counts of Sri Lanka.
+A time series based machine learning model for the prediction of COVID19 Affected, Recovered & Deaths counts of Sri Lanka.
 
 ### Datasets
 
