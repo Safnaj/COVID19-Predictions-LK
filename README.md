@@ -9,7 +9,7 @@ A time series based machine learning model for the prediction of COVID19 Affecte
 ### Technologies
 * Python
 * Jupyter Notebook
-* Google Co Lab
+* Google Co-Lab
 
 ### Alogrithm
 
