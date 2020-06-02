@@ -11,7 +11,7 @@ A time series based machine learning model for the prediction of COVID19 Affecte
 * Jupyter Notebook
 * Google Co-Lab
 
-### Alogrithm
+### Algorithm
 
 Time Series Analysis is one of the Machine Learning Prediction Technique. Prophet is a forecasting model which allows to deal with multiple seasonalities. It’s an open source library released by Facebook Data Science team.
 
