@@ -19,3 +19,8 @@ Time Series Analysis is one of the Machine Learning Prediction Technique. Prophe
 ### Author
 [*Ahamed Safnaj*](www.ahamedsafnaj.com)
 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md]() file for details
+
