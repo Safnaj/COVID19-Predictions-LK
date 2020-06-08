@@ -7,6 +7,7 @@ A time series based machine learning model for the prediction of COVID19 Affecte
 [Cumulative Count](https://www.kaggle.com/imdevskp/corona-virus-report#covid_19_clean_complete.csv)
 
 ### Technologies
+
 * Python
 * Jupyter Notebook
 * Google Co-Lab
@@ -15,10 +16,9 @@ A time series based machine learning model for the prediction of COVID19 Affecte
 
 Time Series Analysis is one of the Machine Learning Prediction Technique. Prophet is a forecasting model which allows to deal with multiple seasonalities. It’s an open source library released by Facebook Data Science team.
 
-
 ### Author
-[*Ahamed Safnaj*](www.ahamedsafnaj.com)
 
+[*Ahamed Safnaj*](www.ahamedsafnaj.com)
 
 ## License
 
